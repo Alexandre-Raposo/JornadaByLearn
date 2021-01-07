@@ -1,3 +1,3 @@
 # JornadaByLearn
 
-Esse é apenas um pequeno arquivo-exercício para aprendizado no Python.
+Esse é apenas um pequeno arquivo-exercício para eu aprender git.
